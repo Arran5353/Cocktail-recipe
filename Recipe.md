@@ -1,6 +1,6 @@
 # My Recipe
 ## Content
-[Bourbon](Bourbon)
+[Bourbon](#bourbon)
 
 
 
