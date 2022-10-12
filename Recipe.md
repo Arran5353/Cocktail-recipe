@@ -14,9 +14,12 @@
 ### Whiskey Sour
 60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, Lemon twist garnish\
 `Shake 15-20s`
+
 ### Boston Sour
 Same ingredients as [Whiskey Sour](#whiskey-sour)\
 `Dry shake an egg white 30s to emulsify, add ice and ingredients shake 15-20s.`
+    
+
 
 ## Brandy :champagne:
 
@@ -24,7 +27,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ## Coinitreau :cocktail:
 
 
-## Gin :ice_cube:
+## Gin :ice_cube: 
 
 
 ## Pisco :wine_glass:
