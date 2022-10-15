@@ -6,7 +6,8 @@
 [Gin](#gin-ice_cube)\
 [Pisco](#pisco-wine_glass)\
 [Tequila](#tequila-milk_glass)\
-[Vodka](#vodka-corn)
+[Vodka](#vodka-corn)\
+[Mix](#mix-face_with_spiral_eyes)
 
 
 
@@ -38,7 +39,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ## Gin :ice_cube: 
 ### Tom Collins
 60ml Gin, 22ml Fresh lemon juice, 22ml simpe syrup, soda, orange garnish. 
->Variation: 45ml juice (orange, pineapple, grapefruit), 15ml Lemon juice, 15ml simple syrup.
+>Variations: 45ml juice (orange, pineapple, grapefruit), 15ml Lemon juice, 15ml simple syrup.
 
 `Shake first three ingredients 15-20s, strain into Collins or High ball with ice and top with club soda. `
 
@@ -54,7 +55,12 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 
 ### Firing Squad
 45ml blanco tequila, 22ml lime juice, 22ml Grenadine, 2 dashes Angostura bitters, club soda, lime wheel garnish\
-`first four ice shake 15-20s, top with club soda`
+`First four ice shake 15-20s, top with club soda`
 
 ## Vodka :corn:
+
+## Mix :face_with_spiral_eyes:
+### Long island iced tea
+15ml light rum, 15ml vodka, 15ml tequila, 15ml gin, 15ml coinitreau, 30ml lemon juice (lime, or conbine), 15ml simple syrup, cola\
+`Add first 7 ingredients to Collins or high ball filled with ice, top with cola and stir, garnish with lemon`
 
