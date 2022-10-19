@@ -48,6 +48,10 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 8-10 mint leaves, 15ml simple syrup, 60ml gin, 22ml lime juice, 120ml ginger beer\
 `muddle mint with simple syrup in shaker, add ice, gin, juice, shake 10-15s, strain, top with ginger beer`
 
+### 4.3 Ace
+60ml Dry Gin, 15ml Grenadine, 15ml double cream, 1/4 tsp lemon juice, 1/2 egg white\
+`combine all ingredients, dry shake 30s, fill ice shake 15-20s`
+
 
 ## 5. Pisco :wine_glass:
 ### 5.1 Chuflay (shoo-fly)
