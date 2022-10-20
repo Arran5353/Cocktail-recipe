@@ -156,6 +156,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ### 6.2 Tequila Sunrise
 15ml Grenadine, 60ml tequila, 30-60ml soda, lime wedge garnish\
 `high ball, stir, top with soda`
+>Variations: 45ml tequila, 90ml orangee juice, shake, 3ml Grenadine, stir
 
 ### 6.3 Firing Squad
 45ml blanco tequila, 22ml lime juice, 22ml Grenadine, 2 dashes Angostura bitters, club soda, lime wheel garnish\
@@ -189,6 +190,9 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 
 ### 7.5 Kamikaze
 30ml Vodka, 30ml Cointreau, 30ml lime juice
+
+### 7.6 Sledge Hammer
+45ml Vodka, 15ml lime juice, 3ml simple syrup
 
 
 
