@@ -44,6 +44,10 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ### 1.9 Fiery Red Leather
 60ml JD, 30ml Cointreau, dash lemon juice, dash grenadine
 
+### 1.10 Rattlesnake
+60ml JD, 22ml Lemon, 22ml Simple Syrup, Absinthe Rinse, Egg White, Lemon Twist\
+`dry shake 8s -- ice shake 8s -- filter --iced glass`
+
 
 
 
