@@ -69,7 +69,6 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 
 ### 3.2 Monkey Gland :heart:
 60ml Gin, 30/45 ml orange juice, 7ml Grenadine\
-`muddle mint with simple syrup in shaker, add ice, gin, juice, shake 10-15s, strain, top with ginger beer`
 
 ### 3.3 Ace :heart:
 60ml Gin, 10/15ml Grenadine, 30ml single / 15ml double cream, 1 dash lemon juice, 1/2 egg white\
