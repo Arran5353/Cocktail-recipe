@@ -2,7 +2,7 @@
 
 
 
-<img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  width="60%" height="60%" />
+<img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  width="80%" height="80%" />
 
 ## Content
 [1. Bourbon](#1-bourbon-tumbler_glass)\
