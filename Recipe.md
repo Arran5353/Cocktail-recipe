@@ -68,7 +68,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 >Variations 2: 45ml Gin, 30ml lemon juice, 10ml simple syrup, 80ml soda (Gin Fizz)
 
 ### 3.2 Monkey Gland :heart:
-60ml Gin, 30/45 ml orange juice, 7ml Grenadine\
+60ml Gin, 30/45 ml orange juice, 7ml Grenadine
 
 ### 3.3 Ace :heart:
 60ml Gin, 10/15ml Grenadine, 30ml single / 15ml double cream, 1 dash lemon juice, 1/2 egg white\
