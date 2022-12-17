@@ -5,7 +5,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  width="80%" height="80%" />
 
 ## Content
-[1. Bourbon](#1-bourbon-tumbler_glass)\
+[1. Whiskey](#1-bourbon-tumbler_glass)\
 [2. Brandy](#2-brandy-champagne)\
 [3. Gin](#3-gin-ice_cube)\
 [4. Tequila](#4-tequila-milk_glass)\
@@ -16,7 +16,7 @@
 
 
 
-## 1. Bourbon :tumbler_glass:
+## 1. Whiskey :tumbler_glass:
 ### 1.1 Whiskey Sour
 60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, Lemon twist garnish
 
