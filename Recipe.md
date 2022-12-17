@@ -1,8 +1,8 @@
-# My Recipe :clinking_glasses:
+# Welcome to my bar :clinking_glasses:
 
 
 
-<img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  style="zoom: 20%;" />
+<img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  width="45%" height="45%" />
 
 ## Content
 [1. Bourbon](#1-bourbon-tumbler_glass)\
