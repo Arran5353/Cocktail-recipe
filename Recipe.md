@@ -14,9 +14,9 @@
 [7. Mix](#7-mix-face_with_spiral_eyes)
 
 
-<center>:heart: Signature cocktails</center>
 
 ## 1. Whiskey :tumbler_glass:
+
 ### 1.1 Whiskey Sour :heart:
 60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, Lemon twist garnish
 
@@ -46,8 +46,6 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 
 ### 1.9 Fiery Red Leather
 60ml JD, 30ml Cointreau, dash lemon juice, dash grenadine
-
-
 
 
 
