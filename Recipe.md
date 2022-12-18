@@ -20,7 +20,7 @@
 ### 1.1 Whiskey Sour :heart: <sub>威士忌酸</sub>
 60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, Lemon twist garnish
 
-### 1.2 Boston Sour <sub>波本酸</sub>
+### 1.2 Boston Sour <sub>波士顿酸</sub>
 Same ingredients as [Whiskey Sour](#whiskey-sour)\
 `dry shake an egg white 30s to emulsify, add ice and ingredients shake 15-20s.`
 
