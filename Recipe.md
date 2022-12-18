@@ -64,7 +64,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ## 3. Gin :ice_cube: 
 ### 3.1 Tom Collins :heart: <sub>汤姆柯林斯</sub>
 60ml Gin, 22ml lemon juice, 22ml simpe syrup, soda 
->Variations 1: add 45ml juice (orange, pineapple, grapefruit), reduce as 15ml Lemon juice, 15ml simple syrup.
+>Variations 1: add 45ml juice (orange, pineapple, grapefruit), reduce as 15ml Lemon juice, 15ml simple syrup\
 >Variations 2: 45ml Gin, 30ml lemon juice, 10ml simple syrup, 80ml soda (Gin Fizz)
 
 ### 3.2 Monkey Gland :heart: <sub>猴腺</sub>
