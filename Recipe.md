@@ -105,7 +105,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 
 Pure drink: lick - salt - shot - lemon (quick)
 
-### 4.1 Paloma (Mexico) <sub>白鸽</sub>
+### 4.1 Paloma <sub>白鸽</sub>
 60ml Tequila, 22ml fresh lime juice, 120ml grapefruit soda (Fresca, Squirt, Jarritos), a few dashes of grapefruit bitters, limewedge and salt rim
 >Variations: 120ml grapefruit soda --> 30ml grapefruit juice, 20ml simple syrup, 70ml club soda.
 
