@@ -4,14 +4,14 @@
 
 <img src="https://c4.wallpaperflare.com/wallpaper/297/4/885/spy-x-family-anime-girls-anime-anya-forger-hd-wallpaper-preview.jpg"  width="80%" height="80%" />
 
-## Content
-[1. Whiskey](#1-whiskey-tumbler_glass)\
-[2. Brandy](#2-brandy-champagne)\
-[3. Gin](#3-gin-ice_cube)\
-[4. Tequila](#4-tequila-milk_glass)\
-[5. Vodka](#5-vodka-corn)\
-[6. Rum](#6-rum-clinking_glasses)\
-[7. Mix](#7-mix-face_with_spiral_eyes)
+## Click base spirit you prefer
+[1. Whiskey 威士忌](#1-whiskey-tumbler_glass)\
+[2. Brandy 白兰地](#2-brandy-champagne)\
+[3. Gin 金](#3-gin-ice_cube)\
+[4. Tequila 龙舌兰](#4-tequila-milk_glass)\
+[5. Vodka 伏特加](#5-vodka-corn)\
+[6. Rum 朗姆](#6-rum-clinking_glasses)\
+[7. Mix 混合](#7-mix-face_with_spiral_eyes)
 
 
 
