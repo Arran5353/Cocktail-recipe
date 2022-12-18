@@ -169,6 +169,9 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 6.5 Caribbean rum punch <sub>加勒比朗姆潘趣</sub>
 30ml rum, 10ml lime juice, 40ml black tea, 20ml simple syrup
 
+### 6.6 Rum bubble tea <sub>朗姆奶茶</sub>
+45ml white rum, 15ml single cream, 30ml black tea, 15ml simple syrup, 15ml lemon, egg white
+
 ## 7. Mix :face_with_spiral_eyes:
 ### 7.1 Long island iced tea :heart: <sub>长岛冰茶</sub>
 15ml Light Rum, 15ml Vodka, 15ml Tequila, 15ml Gin, 15ml Coinitreau, 30ml lemon juice (lime, or conbine), 15ml simple syrup, cola\
