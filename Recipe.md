@@ -147,6 +147,9 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 5.4 Sledge Hammer :heart: <sub>大锤</sub>
 45ml Vodka, 15ml lime juice, 3ml simple syrup
 
+### 5.5 Fiji <sub>富士山</sub>
+40ml vodka, 20 blue curacao, 20ml lemon, 40ml pineapple\
+`沿吧勺倒酸奶覆盖分层`
 
 
 ## 6. Rum :clinking_glasses:
@@ -159,6 +162,12 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 6.3 Mojito :heart: <sub>莫吉托</sub>
 60ml white rum (aged rum, gin or mix), 22ml lime, 30ml simple syrup, soda, 8-10 mint leaves\
 `muddle mint and simple syrup in Collins, add other ingredient, add half ice, stir, add soda, top with ice, mint garnish`
+
+### 6.4 English Cobbler <sub>考比勒</sub>
+45ml aged rum, 30ml balck tea, 15ml simple syrup
+
+### 6.5 Caribbean rum punch <sub>加勒比朗姆潘趣</sub>
+30ml rum, 10ml lime juice, 40ml black tea, 20ml simple syrup
 
 ## 7. Mix :face_with_spiral_eyes:
 ### 7.1 Long island iced tea :heart: <sub>长岛冰茶</sub>
