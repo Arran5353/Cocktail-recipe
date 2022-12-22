@@ -32,8 +32,8 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 60ml Bourbon, 15ml simple syrup, 8-10 mint leaves\
 `muddle mint and simple syrup in rock glass, add bourbon and ice to halfway, stir, top more ice, garnish with mint`
 
-### 1.5 Atholl Brose :heart: <sub>阿索尔燕麦</sub>
-60ml Scotch, 45ml oat drink, 15ml honey, 30ml double cream
+### 1.5 Fiery Red Leather <sub>火红皮革</sub>
+60ml JD, 30ml Cointreau, dash lemon juice, dash grenadine
 
 ### 1.6 Mark Twain <sub>马克·吐温</sub>
 45ml JD, 22ml lemon juice, 30ml simple syrup, 2 dashes Angostura bitter
@@ -44,8 +44,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ### 1.8 Whiskey Daisy <sub>威士忌戴兹</sub>
 45ml JD, 22ml lemon juice, 22ml curacao, 15ml club soda
 
-### 1.9 Fiery Red Leather <sub>火红皮革</sub>
-60ml JD, 30ml Cointreau, dash lemon juice, dash grenadine
+
 
 
 
@@ -53,11 +52,6 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 ## 2. Brandy :champagne:
 ### 2.1 Sidecar :heart: <sub>边车</sub>
 60ml Brandy, 20ml Cointreau, 20ml lemon juice
-
-
-
-
-
 
 
 
@@ -78,7 +72,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 50ml Gin, 25ml lemon juice, 15ml simple syrup, 2 dashes angostura bitter
 
 ### 3.5 White lady :heart: <sub>白色佳人</sub>
-40ml Gin, 30ml Conintreau, 20ml lemon juice
+40ml Gin, 15ml Conintreau, 20ml lemon/lime juice, (5-10 ml syrup), egg white
 
 ### 3.6 Gimlet <sub>吉姆雷特</sub>
 60ml Gin, 15ml simple suger, 15ml lime juice
@@ -96,8 +90,21 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 60ml Gin, 30ml JD, 2 dashes Angostura bitter
 
 ### 3.12 Pink Lady <sub>粉色佳人</sub>
-30ml Gin, 30ml apple brandy, 15ml lemon juice, 7ml Grenadine, 1 egg white\
+30-45ml Gin, (30ml apple brandy), 15ml lemon juice, 7ml Grenadine, 1 egg white\
 `all ingredients, dry shake 30s, fill ice shake, strain`
+
+### 3.13 Ramos Gin Fizz <sub>拉莫斯金菲士</sub>
+60ml gin, 30ml club soda, 22ml double cream, 22ml simple syrup, 15ml lemon juice, 15ml lime juice, 2 drops orange extract, 1 egg white, \
+`pour soda first, dry shake cream & egg white 15min, add ice and other ingredients, shake`
+
+### 3.14 Gin Fizz <sub>金菲士</sub>
+60ml gin, 30ml club soda, 22ml lime/lemon juice, 22ml simple syrup, egg white\
+`add club soda to the fizz glass, dry shake egg white, add others, shake, result in foamy top`
+
+### 3.15 Merry widow fizz <sub>风流寡妇</sub>
+45ml gin, 30ml orange juice, 15ml lemon juice, 15ml simple syrup, egg white\
+`pour soda first, dry shake 30s, add ice, shake again 15-20s, strain`
+
 
 
 
@@ -109,7 +116,7 @@ Pure drink: lick - salt - shot - lemon (quick)
 60ml Tequila, 22ml fresh lime juice, 120ml grapefruit soda (Fresca, Squirt, Jarritos), a few dashes of grapefruit bitters, limewedge and salt rim
 >Variations: 120ml grapefruit soda --> 30ml grapefruit juice, 20ml simple syrup, 70ml club soda.
 
-`stir. `
+`stir`
 
 ### 4.2 Tequila Sunrise :heart: <sub>龙舌兰日出</sub>
 60ml tequila, 15ml Grenadine, 30-60ml soda, lime wedge garnish\
