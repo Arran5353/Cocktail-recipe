@@ -101,7 +101,7 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 60ml gin, 30ml club soda, 22ml lime/lemon juice, 22ml simple syrup, egg white\
 `add club soda to the fizz glass, dry shake egg white, add others, shake, result in foamy top`
 
-### 3.15 Merry widow fizz <sub>风流寡妇</sub>
+### 3.15 Merry Widow Fizz <sub>风流寡妇</sub>
 45ml gin, 30ml orange juice, 15ml lemon juice, 15ml simple syrup, egg white\
 `pour soda first, dry shake 30s, add ice, shake again 15-20s, strain`
 
@@ -129,9 +129,6 @@ Pure drink: lick - salt - shot - lemon (quick)
 
 ### 4.4 Margarita :heart: <sub>玛格丽特</sub>
 45ml blanco tequila, 30ml  Couintreau, 22ml lime juice, lime wedge and sea salt rim
-
-
-
 
 
 
