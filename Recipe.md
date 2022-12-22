@@ -151,7 +151,7 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 5.4 Sledge Hammer :heart: <sub>大锤</sub>
 45ml Vodka, 15ml lime juice, 3ml simple syrup
 
-### 5.5 Fiji <sub>富士山</sub>
+### 5.5 Fuji <sub>富士山</sub>
 40ml vodka, 20 blue curacao, 20ml lemon, 40ml pineapple\
 `沿吧勺倒酸奶覆盖分层`
 
