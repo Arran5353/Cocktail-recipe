@@ -176,11 +176,18 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 6.6 Rum bubble tea <sub>朗姆奶茶</sub>
 45ml white rum, 15ml single cream, 30ml black tea, 15ml simple syrup, 15ml lemon, egg white
 
+### 6.7 Desert Oasis <sub>沙漠绿洲</sub>
+40ml white rum, 22ml lemon juice, 20ml blue curacao, 120ml orange juice\
+`pour orange juice first, shake others`
+
 ## 7. Mix :face_with_spiral_eyes:
 ### 7.1 Long island iced tea :heart: <sub>长岛冰茶</sub>
 15ml Light Rum, 15ml Vodka, 15ml Tequila, 15ml Gin, 15ml Coinitreau, 30ml lemon juice (lime, or conbine), 15ml simple syrup, cola\
 `add first 7 ingredients to Collins or high ball filled with ice, top with cola and stir, garnish with lemon`
 
+### 7.2 See you tomorrow <sub>明儿见</sub>
+15ml Gin, Tequila, Vodka, Rum, Whiskey, Brandy, blue Curaçao, lime juice\
+`stir, fire`
 
 
 
