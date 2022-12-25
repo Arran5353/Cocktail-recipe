@@ -94,14 +94,14 @@ Same ingredients as [Whiskey Sour](#whiskey-sour)\
 `all ingredients, dry shake 30s, fill ice shake, strain`
 
 ### 3.13 Ramos Gin Fizz <sub>拉莫斯金菲士</sub>
-60ml gin, 30ml club soda, 22ml double cream, 22ml simple syrup, 15ml lemon juice, 15ml lime juice, 2 drops orange extract, 1 egg white, \
+60ml gin, 30ml club soda, 22ml simple syrup, 15ml lemon juice, 15ml lime juice, 2 drops orange extract/5ml Grenadine, 22ml double cream, 1 egg white, \
 `pour soda first, dry shake cream & egg white 15min, add ice and other ingredients, shake`
 
 ### 3.14 Gin Fizz <sub>金菲士</sub>
 60ml gin, 30ml club soda, 22ml lime/lemon juice, 22ml simple syrup, egg white\
 `add club soda to the fizz glass, dry shake egg white, add others, shake, result in foamy top`
 
-### 3.15 Merry Widow Fizz <sub>风流寡妇</sub>
+### 3.15 Merry Widow Fizz :heart: <sub>风流寡妇</sub>
 45ml gin, 30ml orange juice, 15ml lemon juice, 15ml simple syrup, egg white\
 `pour soda first, dry shake 30s, add ice, shake again 15-20s, strain`
 
@@ -151,9 +151,9 @@ Pure drink: lick - salt - shot - lemon (quick)
 ### 5.4 Sledge Hammer :heart: <sub>大锤</sub>
 45ml Vodka, 15ml lime juice, 3ml simple syrup
 
-### 5.5 Fuji <sub>富士山</sub>
+### 5.5 Fuji :heart: <sub>富士山</sub>
 40ml vodka, 20 blue curacao, 20ml lemon, 40ml pineapple\
-`沿吧勺倒酸奶覆盖分层`
+`沿吧勺倒稠酸奶/cream打发覆盖分层`
 
 
 ## 6. Rum :clinking_glasses:
