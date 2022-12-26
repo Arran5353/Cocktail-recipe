@@ -18,7 +18,7 @@
 ## 1. Whiskey :tumbler_glass:
 
 ### 1.1 Whiskey Sour :heart: <sub>威士忌酸</sub>
-60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, Lemon twist garnish
+60ml Bourbon, 22ml Fresh lemon juice, 22ml Simple syrup, 2 Dashes Angostura bitters, egg white, Lemon twist garnish
 
 ### 1.2 Boston Sour <sub>波士顿酸</sub>
 Same ingredients as [Whiskey Sour](#whiskey-sour)\
